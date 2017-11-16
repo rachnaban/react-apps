@@ -1,0 +1,19 @@
+#root{
+	padding:10px;
+}
+.grid{
+ border: thin solid lightgray;
+  line-height: 0;
+  margin-bottom: 0.75rem;
+
+}
+.cell{
+	
+ border: thin solid lightgray;
+  display: inline-block;
+  height: 75px; 
+}
+.message {
+  float: right;
+  font-weight: bold;
+}
